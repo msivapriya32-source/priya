@@ -1,1 +1,1 @@
-# priya
+FitBuddy -AI fitness plan generator using gemini  models
